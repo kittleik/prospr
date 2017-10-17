@@ -1,0 +1,39 @@
+task 1
+
+a - In a lexically bound identifier, the variable that the identifier points to, points to a value. If it's free, it does not.
+
+b - Free-ZY Bound-X
+
+c - Free-Z Bound-XY
+
+d - Free-WYAVZX Bound-
+
+e - Free-XWZ Bound-Y
+
+task 2
+
+a - unbound
+
+b - partially bound
+
+c - fully instantiated - p(b b)
+
+d - partially bound
+
+e - fully instantiated - p(c b)
+
+f - fully instantiated - p(c b)
+
+task 3
+
+a - An external reference is a reference from outside the function scope
+
+b - V W U
+
+c - V
+
+d - none
+
+e - V U
+
+f - V

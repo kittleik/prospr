@@ -1,0 +1,3 @@
+a) A list has its elements stored in memory. A stream does not store its data, it conveys elements from a data source. You could run a list through a stream.
+b)They are thrown when the execution is done, which is when its nessesary
+c)
